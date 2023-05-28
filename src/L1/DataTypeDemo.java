@@ -1,6 +1,4 @@
-package IntroTopics;
-
-import java.util.Collections;
+package L1;
 
 public class DataTypeDemo {
 

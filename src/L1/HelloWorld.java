@@ -1,4 +1,4 @@
-package IntroTopics;
+package L1;
 
 // "Hello World" program example
 public class HelloWorld {

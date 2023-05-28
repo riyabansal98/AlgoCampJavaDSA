@@ -1,4 +1,4 @@
-package IntroTopics;
+package L1;
 
 /*
 * This is an illustration of a program
