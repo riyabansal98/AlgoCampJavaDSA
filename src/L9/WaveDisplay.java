@@ -29,7 +29,6 @@ public class WaveDisplay {
                 for(int r = arr.length - 1; r >= 0; r--) {
                     System.out.print(arr[r][c] + " ");
                 }
-
             }
         }
 
